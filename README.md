@@ -1,4 +1,4 @@
-# 🍯 Honeypot Attack Monitoring System
+# Honeypot Attack Monitoring System
 
 A simple cybersecurity honeypot project built with Python to capture, analyze, and visualize malicious login attempts.
 
@@ -6,7 +6,7 @@ This project simulates a fake login system to monitor attacker behavior and gene
 
 ---
 
-# 🚀 Features
+# Features
 
 - Fake login honeypot
 - Logs login attempts
@@ -17,7 +17,7 @@ This project simulates a fake login system to monitor attacker behavior and gene
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 honeypot/
